@@ -12,7 +12,7 @@ Glitch App Links:
 
 
 Project done as part of course:
-- Metric-Imperial Converter: [Description](): [Glitch App]()
+- Metric-Imperial Converter: [Description](Project-Description/Metric-Imperial-Cnverter.md): [Glitch App](https://glitch.com/~separated-towering-olive)
 - Issue Tracker: [Description](): [Glitch App]()
 - Personal Library: [Description](): [Glitch App]()
 - Stock Price Checker: [Description](): [Glitch App]()
