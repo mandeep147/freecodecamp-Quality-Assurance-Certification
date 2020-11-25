@@ -2,7 +2,6 @@
 Freecodecamp solution to Quality Assurance Challenges    
     
 Glitch App Links:    
-- HelmetJS: [Glitch App](https://spotty-pink.glitch.me)   
 - Mocha and Chai: [Glitch App](https://calm-cocoa.glitch.me)   
 - Advanced Node and Express app: [Glitch App](https://succulent-crawdad.glitch.me)   
 - BCrypt: [Glitch App](https://glitch.com/edit/#!/decisive-sailor)   
