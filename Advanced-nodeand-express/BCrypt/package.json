@@ -16,7 +16,7 @@
     "body-parser": "^1.19.0",
     "mongodb": "^3.2.7",
     "helmet": "^3.20.0",
-    "bcrypt": "^5.0.0"
+    "bcrypt": ">=5.0.0"
   },
   "engines": {
     "node": "4.4.3"
