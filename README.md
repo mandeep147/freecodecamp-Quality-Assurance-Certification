@@ -12,5 +12,5 @@ Glitch App Links:
 
 Project done as part of course:
 - Metric-Imperial Converter: [Description](Project-Description/Metric-Imperial-Converter.md): [Glitch App](https://separated-towering-olive.glitch.me/)
-- Issue Tracker: [Description](Project-Description/): [Glitch App]()
+- Issue Tracker: [Description](Project-Description/): [Repl App](https://project-american-british-english-translator.mandeep147.repl.co)
 - Personal Library: [Description](Project-Description/): [Glitch App]()
